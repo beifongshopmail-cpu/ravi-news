@@ -1,1 +1,58 @@
-{"posts":[{"kind":"product","posted":"2026-11-06","source":"Riftbound","text":"Bringing a little K/DA style to #Worlds2026, we gave T1 Faker and T1 Keria a firsthand look at the Riftbound x K/DA Couture Collection Artbook!","url":"https://www.facebook.com/reel/1352248946866083"},{"event":{"date":"2026-11-06","fee":"","format":"Rounds 1-6","name":"Riftbound Regional Championship Europe - Day 1","place":"","time":""},"kind":"event","posted":"2026-11-06","source":"Riftbound","text":"Riftbound Regional Championship Europe - Day 1 (Rounds 1-6)","url":"https://www.youtube.com/watch?v=UkhAC0WVdm4"},{"event":{"date":"2026-11-07","fee":"","format":"Rounds 7-12","name":"Riftbound Regional Championship Europe - Day 2","place":"","time":""},"kind":"event","posted":"2026-11-07","source":"Riftbound","text":"Riftbound Regional Championship Europe - Day 2 (Rounds 7-12)","url":"https://www.youtube.com/watch?v=zBmcMGjS910"}],"run":"2026-11-07"}
+{
+  "posts": [
+    {
+      "kind": "product",
+      "posted": "2026-11-06",
+      "source": "Riftbound",
+      "text": "Bringing a little K/DA style to #Worlds2026, we gave T1 Faker and T1 Keria a firsthand look at the Riftbound x K/DA Couture Collection Artbook!",
+      "url": "https://www.facebook.com/reel/1352248946866083"
+    },
+    {
+      "event": {
+        "date": "2026-11-06",
+        "fee": "",
+        "format": "Rounds 1-6",
+        "name": "Riftbound Regional Championship Europe - Day 1",
+        "place": "",
+        "time": ""
+      },
+      "kind": "event",
+      "posted": "2026-11-06",
+      "source": "Riftbound",
+      "text": "Riftbound Regional Championship Europe - Day 1 (Rounds 1-6)",
+      "url": "https://www.youtube.com/watch?v=UkhAC0WVdm4"
+    },
+    {
+      "event": {
+        "date": "2026-11-07",
+        "fee": "",
+        "format": "Rounds 7-12",
+        "name": "Riftbound Regional Championship Europe - Day 2",
+        "place": "",
+        "time": ""
+      },
+      "kind": "event",
+      "posted": "2026-11-07",
+      "source": "Riftbound",
+      "text": "Riftbound Regional Championship Europe - Day 2 (Rounds 7-12)",
+      "url": "https://www.youtube.com/watch?v=zBmcMGjS910"
+    },
+    {
+      "source": "Skyhaven Games Riftbound (League of Legends) Group",
+      "url": "https://facebook.com/groups/1289633928950754/permalink/1845310586716416/",
+      "posted": "2026-11-07",
+      "tier": "local",
+      "kind": "event",
+      "text": "Hi all! If you are free and would like to join, I am thinking of doing a personal \"for fun\" (zero cost, zero prizes) online event for Riftbound using Riftatlas on Monday evening the 16th (11/16/26) at 5:30 PM. It would be a three round \"Mini-Worlds\" event, with the same rules: Players would play three decks (Deck A, B, and C) in rounds 1, 2, and 3, with a stipulation that they do not play legends that share domains (ie., can't play Ezreal then Mel then Riven, as they all share Chaos domain)…",
+      "event": {
+        "name": "Mini-Worlds (online, for fun)",
+        "date": "2026-11-16",
+        "time": "5:30 PM",
+        "place": "Online (Riftatlas + Discord)",
+        "format": "3 decks, no shared Domains, best-of-3",
+        "fee": ""
+      }
+    }
+  ],
+  "run": "2026-11-07"
+}

@@ -1,1 +1,35 @@
-{"posts":[{"kind":"announcement","posted":"2026-10-26","source":"Riftbound","text":"2026 isn’t over yet, and there’s even more on the horizon.\n\nFrom our first-ever Regional Championships to new sets in 2027, explore the latest Riftbound roadmap and see what’s ahead for players!\n\nFull roadmap: https://riot.com/4549fpZ","url":"https://www.facebook.com/playriftbound/posts/pfbid037jxVB3hhG6Fdj6yZvxdRutYrSf3xwguLmtLWE1bicQdrjVbgCR8dK8DK4s4C6Mwgl"},{"kind":"rules","posted":"2026-10-26","source":"Riftbound","text":"Ready to take the stage with #RBRadiance? Get in tune with the set’s rules and clarification of tricky card interactions in the Radiance FAQ!\n\nArticle: https://riot.com/4iGJT95","url":"https://www.facebook.com/playriftbound/posts/pfbid0mDZi2DaYqBvLsxMnwoWTJREa1hfUJhArFLNrzC4rz8vvr3erbtwoHsC3skhuX59l"}],"run":"2026-10-27"}
+{
+  "posts": [
+    {
+      "kind": "announcement",
+      "posted": "2026-10-26",
+      "source": "Riftbound",
+      "text": "2026 isn’t over yet, and there’s even more on the horizon.\n\nFrom our first-ever Regional Championships to new sets in 2027, explore the latest Riftbound roadmap and see what’s ahead for players!\n\nFull roadmap: https://riot.com/4549fpZ",
+      "url": "https://www.facebook.com/playriftbound/posts/pfbid037jxVB3hhG6Fdj6yZvxdRutYrSf3xwguLmtLWE1bicQdrjVbgCR8dK8DK4s4C6Mwgl"
+    },
+    {
+      "kind": "rules",
+      "posted": "2026-10-26",
+      "source": "Riftbound",
+      "text": "Ready to take the stage with #RBRadiance? Get in tune with the set’s rules and clarification of tricky card interactions in the Radiance FAQ!\n\nArticle: https://riot.com/4iGJT95",
+      "url": "https://www.facebook.com/playriftbound/posts/pfbid0mDZi2DaYqBvLsxMnwoWTJREa1hfUJhArFLNrzC4rz8vvr3erbtwoHsC3skhuX59l"
+    },
+    {
+      "source": "Skyhaven Games Riftbound (League of Legends) Group",
+      "url": "https://facebook.com/groups/1289633928950754/permalink/1833672164546925/",
+      "posted": "2026-10-27",
+      "tier": "local",
+      "kind": "event",
+      "text": "Hello all! Our first Radiance Skirmish is less than a month away (11/15/26 at 5 PM, Sunday) - if you'd like to sign up for it, please do let us know and we'll put you in! Thank you!",
+      "event": {
+        "name": "Radiance Skirmish",
+        "date": "2026-11-15",
+        "time": "5:00 PM",
+        "place": "Skyhaven Games, Victoria",
+        "format": "",
+        "fee": ""
+      }
+    }
+  ],
+  "run": "2026-10-27"
+}

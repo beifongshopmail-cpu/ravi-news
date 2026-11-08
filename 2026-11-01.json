@@ -1,1 +1,43 @@
-{"posts":[{"kind":"announcement","posted":"2026-10-31","source":"Riftbound","text":"Happy birthday to… us! 🎉 To our incredible community, thank you for being part of Riftbound’s first year. To celebrate, we’re hosting a giveaway! Enter by sharing your favorite Riftbound memory using #Riftbound1Year! One lucky player will win: - 1x Origins Booster Display - 3x Origins Champion Decks (Jinx, Viktor, and Lee Sin)…","url":"https://www.facebook.com/playriftbound/posts/pfbid0dFwTZvZgHFVB3F9vdKd9S2hDwyo7nBGvfTxfB9v9LME4wNkCU4ke8FYA1x1adiC4l"},{"kind":"announcement","posted":"2026-10-30","source":"Riftbound","text":"ONE MORE HOUR! 🩷🔥 The Riftbound x K/DA: Couture Collection drawing is almost closed, and this is your last call to get in on the action! Don't miss your chance to bring K/DA to the tabletop. Register before 9 AM PT TODAY! Sign up at: https://riot.com/3QYxPVC","url":"https://www.facebook.com/playriftbound/posts/pfbid023QzjZx4NLRqedRnSdXfFtQjwr1gUtZXRo5qKm63bh88taCsDSuLyEX7Knub9shAnl"}],"run":"2026-11-01"}
+{
+  "posts": [
+    {
+      "kind": "announcement",
+      "posted": "2026-10-31",
+      "source": "Riftbound",
+      "text": "Happy birthday to… us! 🎉 To our incredible community, thank you for being part of Riftbound’s first year. To celebrate, we’re hosting a giveaway! Enter by sharing your favorite Riftbound memory using #Riftbound1Year! One lucky player will win: - 1x Origins Booster Display - 3x Origins Champion Decks (Jinx, Viktor, and Lee Sin)…",
+      "url": "https://www.facebook.com/playriftbound/posts/pfbid0dFwTZvZgHFVB3F9vdKd9S2hDwyo7nBGvfTxfB9v9LME4wNkCU4ke8FYA1x1adiC4l"
+    },
+    {
+      "kind": "announcement",
+      "posted": "2026-10-30",
+      "source": "Riftbound",
+      "text": "ONE MORE HOUR! 🩷🔥 The Riftbound x K/DA: Couture Collection drawing is almost closed, and this is your last call to get in on the action! Don't miss your chance to bring K/DA to the tabletop. Register before 9 AM PT TODAY! Sign up at: https://riot.com/3QYxPVC",
+      "url": "https://www.facebook.com/playriftbound/posts/pfbid023QzjZx4NLRqedRnSdXfFtQjwr1gUtZXRo5qKm63bh88taCsDSuLyEX7Knub9shAnl"
+    },
+    {
+      "source": "Skyhaven Games Riftbound (League of Legends) Group",
+      "url": "https://facebook.com/groups/1289633928950754/permalink/1838953680685440/",
+      "posted": "2026-11-01",
+      "tier": "local",
+      "kind": "event",
+      "text": "**Riftbound Nexus Night 11/01/26 Sunday** Standings 1st - Peter Tang (3-0) 2nd - Wysley Ng (3-0) 3rd - Robbie McCallum (2-0-1) 4th - Jordan Merrick (2-1) 5th - Connor Bryan (2-1) 6th - Loki Jantzen (2-1) 7th - NJ Traces (2-1) 8th - Liam Apeldoorn (2-1) 9th - Pedro Oliveira (1-1-1) 10th - Daniel Park (1-2) 11th - Kait Kovacs (1-2) 12th - Christian Huag (1-2) 13th - Peter Loi (1-2) 14th - Seth Wall (1-2) 15th - Siobhan Maclean (1-2) 16th - Jordan Smith (1-2) 17th - Nixie Lonsdale (0-3) 18th - Zoey Fasan-Buffat (0-3)…",
+      "event": {
+        "name": "Riftbound Nexus Night",
+        "date": "2026-11-01",
+        "time": "",
+        "place": "Skyhaven Games, Victoria",
+        "format": "",
+        "fee": ""
+      }
+    },
+    {
+      "source": "Skyhaven Games Riftbound (League of Legends) Group",
+      "url": "https://facebook.com/groups/1289633928950754/permalink/1838798774034264/",
+      "posted": "2026-11-01",
+      "tier": "local",
+      "kind": "announcement",
+      "text": "Hi all! The Playriftbound site moved all our events one hour forward due to the time change (that isn't happening in BC). We're going to manually fix it, but if you're on your way, just call us at 250-477-1519. We're waiting to start because quite a few of you are running late."
+    }
+  ],
+  "run": "2026-11-01"
+}

@@ -62,8 +62,15 @@ and give store, date, time, format, players, results. Check it every run.
 
 - Skyhaven Games, Victoria — https://www.facebook.com/SkyhavenGamesVictoria
   (read via mirror https://www.findglocal.com/CA/Victoria/111540571855153/Skyhaven-Games ;
-  direct Facebook feed is not readable). Monday Nexus Nights 6:00–8:30 PM.
+  direct Facebook feed is not readable). Nexus Nights: Sundays per recent
+  group standings (Nov 1, Oct 25); Mondays 6:00–8:30 PM also listed
+  historically — the group is the authority.
   Locator: https://locator.riftbound.uvsgames.com/events/477503
+  Group (VERIFIED 2026-11-08, 166 members, private): Skyhaven Games Riftbound
+  (League of Legends) Group — https://www.facebook.com/groups/1289633928950754/
+  Read via `facebook-cli groups posts --group-id 1289633928950754`.
+  Nexus Night standings, skirmish sign-ups and store notices live here — check
+  it every run. The store's own page posts less often than the group.
 - Colossal Cards & Collectables, Courtenay — https://www.facebook.com/100171202116663/
   (read via mirror https://www.globuya.com/CA/Courtenay/100171202116663/Colossal-Cards-and-Collectables).
   Weekly casual play + skirmish results; strongest up-island source.
@@ -105,8 +112,6 @@ re-enabled later as an extra precaution.
 Groups (via `facebook-cli groups posts --group-id <id>`):
 - 524513897119175 — Vancouver Island Riftbound
 - 1481899039854322 — Riftbound BC
-- 1289633928950754 — Skyhaven Games Riftbound Group (UNVERIFIED — not found
-  in public search; do not assume it exists)
 - 802203088987543 — Riftbound - Vancouver, B.C
 - 1946261896221994 — Riftbound TCG - Rulings & FAQs
 - 604213538783585 — Riftbound - League of Legends TCG
