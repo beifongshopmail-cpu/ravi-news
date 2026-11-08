@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "event": {
+        "date": "2026-10-22",
+        "fee": "",
+        "format": "",
+        "name": "SPIEL 2026",
+        "place": "Essen",
+        "time": ""
+      },
+      "kind": "event",
+      "posted": "2026-10-22",
+      "source": "Riftbound",
+      "text": "We’re heading to #SPIEL2026! 🇩🇪 Stop by our booth from October 22–25 to demo Riftbound and pick up Secret Garden while supplies last. See you in Essen!",
+      "url": "https://www.facebook.com/playriftbound/posts/pfbid02DrzqXjQZnQi7FuhM7feogf8YB6JKpwnFi6VWF8C7TzhSumPrayHW4kRNoB3hWKPSl"
+    },
+    {
+      "kind": "product",
+      "posted": "2026-10-21",
+      "source": "Riftbound",
+      "text": "The Riftbound x K/DA: Couture Collection pulls back the curtain on a new stage for K/DA—the tabletop. Unbox 4 collectible Legends and a Battlefield celebrating the FIRESTARTER era in Riftbound style, complete with all-new artwork by Fortiche. Register for the drawing starting October 27 at 9am PT. Learn more at https://riot.com/4uZK2Yb",
+      "url": "https://www.facebook.com/reel/1416407920478774/"
+    },
+    {
+      "kind": "product",
+      "posted": "2026-10-21",
+      "source": "Riftbound (official website)",
+      "text": "Everything you need to know about the Riftbound x K/DA: Couture Collection drawings. The Riftbound x K/DA: Couture Collection Drawing The Riftbound x K/DA: Couture Collection drawings have arrived! The FIRESTARTER era shines in this premium bundle. Important Details Contents: The Riftbound x K/DA: Couture Collection pulls back the curtain…",
+      "url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
+    }
+  ],
+  "run": "2026-10-22"
+}
