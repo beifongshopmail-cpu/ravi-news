@@ -29,11 +29,11 @@ for items the site does not carry (reels, short announcements, event posts).
   connected Instagram CLI (`posts --username playriftbound`). MUST filter
   results to username == "playriftbound" — the CLI mixes in other accounts.
   Reels and carousels (card reveals, BTS video) are the unique value here.
-- https://www.youtube.com/@playriftbound — official YouTube. Stream/VOD
+- https://www.youtube.com/@riftbound — official YouTube. Stream/VOD
   links and evergreen guides. Event-day bursts only; dedupe by video title
   against Facebook. Also https://www.twitch.tv/riftbound (same streams).
-  OPEN: confirm handle is @playriftbound (not @riftbound) in a live browser;
-  if @playriftbound does not resolve, try @riftbound.
+  (Handle confirmed 2026-11-08: Riot's own video descriptions link
+  @riftbound; @playriftbound 404s.)
 
 ## OFFICIAL — secondary (optional)
 
