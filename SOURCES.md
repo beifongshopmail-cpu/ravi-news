@@ -71,6 +71,20 @@ and give store, date, time, format, players, results. Check it every run.
   Monthly calendar; occasional Riftbound skirmishes.
 - Rotty's Creations, Victoria — https://www.facebook.com/RottysCreations/posts/pfbid028uEbvzdqHKH6i5ApSLEVZkVGddidTVzARL1wJR64eYJkiNyGeYtbL8PzyagfhitKl
   Riftbound Tuesdays 5–8 PM. New shop (opened Oct 2026) — confirm still running.
+- Gauntlet Games, Victoria — https://www.facebook.com/GauntletGamesVictoria
+  Monthly events calendar; Riftbound League of Legends Tournament among the
+  recurring events (Nov 3, 2026 calendar). Website news list is stale
+  (nothing newer than Jul 10, 2026) — use the Facebook page.
+- North Park Framing and Collectibles, Victoria — https://www.facebook.com/profile.php?id=61557444613977
+  (website https://npframing.ca/). Runs Riftbound (Vendetta pre-release
+  Jul 25, 2026) but Magic-focused; check the Facebook page.
+- Everything Games, Langford — https://www.facebook.com/everythinggames.ca
+  (721 Station Ave). Carries Riftbound; direct Facebook reads return
+  profile-only, so this one may need the live browser.
+- Elite4 Games, Langford — 2770 Leigh Rd. No Facebook page found; events
+  announced via their Discord (unreadable from here) and
+  https://www.elite4games.com/Local-Events (bot-walled). Saturday events
+  rotate between Pokémon, Riftbound and Trade Day. Monitor only.
 - AJ's Games, Campbell River — monitor only via the locator
   (https://locator.riftbound.uvsgames.com/events/296313). No recent activity.
 

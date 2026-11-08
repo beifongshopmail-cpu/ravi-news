@@ -1,4 +1,37 @@
 {
   "run": "2026-11-03",
-  "posts": []
+  "posts": [
+    {
+      "source": "Rotty's Creations",
+      "url": "https://www.facebook.com/RottysCreations/posts/pfbid028rj7cDPpeSMKegfhk2KznHWk9coaSzqR5XTGbh2NGcoSRd2NjcCymQWouB13quGAl",
+      "posted": "2026-11-03",
+      "tier": "local",
+      "kind": "event",
+      "text": "NOVEMBER 2026 EVENTS — Riftbound (5–8 PM) every Tuesday: Nov 3, 10, 17, 24. Pokémon (6–8 PM) Wednesdays. MTG (6–10 PM) Fridays.",
+      "event": {
+        "name": "Riftbound casual play",
+        "date": "2026-11-03",
+        "time": "5:00–8:00 PM",
+        "place": "Rotty's Creations, Victoria",
+        "format": "casual play",
+        "fee": ""
+      }
+    },
+    {
+      "source": "Gauntlet Games",
+      "url": "https://www.facebook.com/GauntletGamesVictoria/posts/pfbid0M5q3dMndyutqZLsGecv2eXQRS4MofCsZ7n7oAE6NdzLYTZfa3PqaSL3m57VibU4Rl",
+      "posted": "2026-11-03",
+      "tier": "local",
+      "kind": "event",
+      "text": "Gauntlet Games November 2026 Events calendar — includes Riftbound League of Legends Tournament among the month's recurring events, plus Magic, Pokémon, Lorcana, Star Wars Unlimited, Battletech, Warhammer and board games.",
+      "event": {
+        "name": "Riftbound League of Legends Tournament",
+        "date": "",
+        "time": "",
+        "place": "Gauntlet Games, Victoria",
+        "format": "tournament",
+        "fee": ""
+      }
+    }
+  ]
 }
