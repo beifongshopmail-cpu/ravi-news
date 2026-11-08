@@ -1,1 +1,43 @@
-{"posts":[{"kind":"product","posted":"2026-11-07","source":"Riftbound","text":"T1 are back in Riftbound. This time, with the T1 2025 Worlds Champion Player bundle that honors the winners with Champion cards chosen by Doran, Oner, Faker, Gumayusi, and Keria. Play or collect them, and celebrate their place in League history! Register for the drawing starting November 13 at 9 AM…","url":"https://www.facebook.com/reel/958435193703586"},{"kind":"product","posted":"2026-11-06","source":"Riftbound","text":"Bringing a little K/DA style to #Worlds2026, we gave T1 Faker and T1 Keria a firsthand look at the Riftbound x K/DA Couture Collection Artbook!","url":"https://www.facebook.com/reel/1352248946866083"}],"run":"2026-11-08"}
+{
+  "posts": [
+    {
+      "kind": "product",
+      "posted": "2026-11-07",
+      "source": "Riftbound",
+      "text": "T1 are back in Riftbound. This time, with the T1 2025 Worlds Champion Player bundle that honors the winners with Champion cards chosen by Doran, Oner, Faker, Gumayusi, and Keria. Play or collect them, and celebrate their place in League history! Register for the drawing starting November 13 at 9 AM…",
+      "url": "https://www.facebook.com/reel/958435193703586"
+    },
+    {
+      "kind": "product",
+      "posted": "2026-11-06",
+      "source": "Riftbound",
+      "text": "Bringing a little K/DA style to #Worlds2026, we gave T1 Faker and T1 Keria a firsthand look at the Riftbound x K/DA Couture Collection Artbook!",
+      "url": "https://www.facebook.com/reel/1352248946866083"
+    },
+    {
+      "source": "Riftbound",
+      "url": "https://playriftbound.com/en-us/news/organizedplay/riftbound-world-showcase/",
+      "posted": "2026-11-05",
+      "tier": "official",
+      "kind": "event",
+      "text": "Riftbound had an explosive first year, and we're excited to conclude the inaugural competitive season in style with the World Showcase happening January 22-23, 2027, in Shanghai, China. The world's best Riftbounders will battle it out for the glory of becoming the first Riftbound World Champion.",
+      "event": {
+        "name": "Riftbound World Showcase",
+        "date": "2027-01-22",
+        "time": "",
+        "place": "Shanghai, China",
+        "format": "",
+        "fee": ""
+      }
+    },
+    {
+      "source": "Riftbound",
+      "url": "https://www.instagram.com/p/DfX2L-YgTqu/",
+      "posted": "2026-11-05",
+      "tier": "official",
+      "kind": "reveal",
+      "text": "swipe for a Mech surprise"
+    }
+  ],
+  "run": "2026-11-08"
+}
