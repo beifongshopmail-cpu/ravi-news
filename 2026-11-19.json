@@ -1,0 +1,994 @@
+{
+  "run": "2026-11-19",
+  "posts": [
+    {
+      "source": "Riftbound",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/community/convergence-fest-side-events-and-the-encore-details/",
+      "links": [
+        "https://www.facebook.com/playriftbound/posts/pfbid02sF3yCKnzAGFm5VMBpin4WMRAdtmZTYShGBVbFd4wWQWNxUuprSafRK2B3YNiu7r8l",
+        "https://x.com/playriftbound/status/2122738278193365380",
+        "https://www.youtube.com/post/Ugkx2IVqaEZQ90TyrSQDWb5Nz93dg_4bzI1H"
+      ],
+      "posted": "2026-11-17",
+      "tier": "official",
+      "kind": "announcement",
+      "text": "Get ready for Convergence Fest! From December 11-13, we’ll be taking center stage at the Las Vegas Convention Center for a weekend packed with ways to celebrate Teamfight Tactics and Riftbound. Let’s take a peek at two of our featured acts - the Side Event experience and The Encore, the party…"
+    },
+    {
+      "source": "Riftbound",
+      "url": "https://www.facebook.com/playriftbound/posts/pfbid025SBtKpbrnUoUD5sKrUk8bSxK6u7HdkNgzZtqvaMNG51VnC4WNcNHwje2K3uW2ruhl",
+      "links": [
+        "https://x.com/playriftbound/status/2122676373827342600",
+        "https://www.instagram.com/teamfighttactics/p/Df1_WqCl91T/",
+        "https://www.youtube.com/post/Ugkxz5jmx57fsaE1E3uNjWhxuu48t6Y7MGjz"
+      ],
+      "posted": "2026-11-17",
+      "tier": "official",
+      "kind": "announcement",
+      "text": "Co-streamers from around the world are joining us in Vegas for #ConvergenceFest! Make sure to catch their streams to score exclusive drops from December 11-13."
+    },
+    {
+      "source": "Riftbound",
+      "url": "https://x.com/playriftbound/status/2122804393959379220",
+      "posted": "2026-11-17",
+      "tier": "official",
+      "kind": "announcement",
+      "text": "Riot Merch Store Drawing Updates: The first wave of Worlds & T1 Player Bundle drawing emails will begin going out tomorrow, 11/18, starting 8 AM PT. We hoped to expedite reviews from 48 hours to 24 hours. However, we need a little more time on manual filtering + checks.…"
+    },
+    {
+      "source": "Riftbound",
+      "url": "https://x.com/playriftbound/status/2123074956397572216",
+      "posted": "2026-11-18",
+      "tier": "official",
+      "kind": "announcement",
+      "text": "Radiant, moving at the speed of light. Let’s go, full prismatic! DJ Sona is back, taking us higher with “Stars Converge” in collaboration with @TSUNAMIMUSICx Watch #ConvergenceFest live through official streams, co-streams, and social Dec 11-13 🪩",
+      "links": [
+        "https://www.youtube.com/watch?v=9ZOrbNEFv-g"
+      ]
+    },
+    {
+      "source": "Riftbound",
+      "url": "https://x.com/playriftbound/status/2123075053055357398",
+      "posted": "2026-11-18",
+      "tier": "official",
+      "kind": "announcement",
+      "text": "“Stars Converge” is yours to enjoy! Listen now on your favorite streaming platform: 🎵"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xz53ef/tweet_from_rachel_agnes/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Tweet from Rachel Agnes"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xywy3k/riot_merch_store_drawing_updates/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Riot Merch Store Drawing Updates"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xyzn1g/dont_use_tcg_arena_for_important_tournaments/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "After my internet disconnected for a moment, I realized I could keep drawing cards, which means the information of the deck is stored locally since the start of the game. I tried to make a JS function that gives me the draw order of my deck and it was surprisingly easy.…"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xz6706/made_a_deck_but_i_smimmed_through_the_rules_and/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Made a deck but I smimmed through the rules and have no idea what I'm doing"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xykahn/rate_my_ksante/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Rate my K'sante"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xyerpn/voli_meta_relevant/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "voli meta relevant?"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xzhaqt/invites_for_the_riftbound_worlds_2026_edition_and/",
+      "posted": "2026-11-18",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Please remember that emails are being sent out throughout the day, so keep checking your email every couple of hours to see if you got an invite."
+    },
+    {
+      "source": "Rotty's Creations",
+      "url": "https://www.facebook.com/RottysCreations/posts/pfbid02XeijgL8tdvYmeqR56ZYRdGu4qecfTN9nUEbQwVeChYP6TjHo7XmSuc5GXCJgefGUl",
+      "posted": "2026-11-17",
+      "tier": "local",
+      "kind": "event",
+      "text": "🔥 RIFTBOUND CASUAL NIGHT TONIGHT! 🔥 Step into the Rift and join us tonight at Rotty’s Creations for casual play! Whether you’re testing out a new deck, trading cards, or just looking to get some friendly games in, all skill levels are welcome.…",
+      "event": {
+        "name": "Riftbound Casual Night",
+        "date": "2026-11-17",
+        "time": "5:00-8:00 PM",
+        "place": "Rotty's Creations",
+        "format": "casual play",
+        "fee": "FREE"
+      }
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y0aj02/check_out_this_tournament_at_proplay_summit/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "I'm the Marketing Manager at Pro-Play Games and wanted to share that the tournament in Baltimore has plenty of open seats available! And today is the last day for early bird pricing. There is substantial prize support for the top 16 participants, including cash prizes and event-exclusive playmats.…"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y02q88/kda_sleeves_are_too_big/",
+      "posted": "2026-11-18",
+      "tier": "community",
+      "kind": "product",
+      "text": "I have no idea how this got out of QC. My outers can barely fit them, it's so bad for a product from a Premium set. Overall disappointed at the sleeves of the KDA set."
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y05cjt/riftcompare_hot_40_vex_apathetic_climbs_to_1_from/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "market",
+      "text": "RiftCompare Hot 40: Vex, Apathetic climbs to #1 from #4, Sprite Fountain moves into the top 3 (global, 19 November 2026)"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y05bg5/im_trying_to_get_started_with_riftbound_and_tried/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "My friends are excited about the game and invited me to try it out, and I really liked its mechanics. I asked my friend if I could have his Akalis (1 Legend and 1 Green Kali) and that I would give it a try from there and build a deck for them, Initially budget-friendly, but likely improve the deck's power level over time…"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xys42d/weird_encounter_at_nexus_night_has_anyone/",
+      "posted": "2026-11-17",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "There was this guy at Nexus Night whom I'd never seen at my LGS before. He was playing Riven, and be... Turns out, this wasn't remotely his first event. He had already participated in around 8–10 events, But what's the angle here? Are people doing this for the participation packs? Trying to sneak in wins…"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xztg6h/prismat_ironman_challenge/",
+      "posted": "2026-11-18",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Prismat has recently started the 'Ironman' challenge. The challenge is that he has to win a Runes & Rifts ranked game with every legend in the game. He has started with the worst legends and is trying to make the legend actually work, instead of playing a worse version of a better legend.…"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xzk1q5/people_are_calling_vex_s_tier_but_i_just_blew_up/",
+      "posted": "2026-11-18",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "People are calling Vex S tier but I just blew up the board she spent 5 turns on with 2 cards"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y083dr/in_search_for_a_great_pyke_list/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Hey everyone, I'm a Pyke one-trick in League of Legends, and I really love this champion. Unfortunately, his legend in Riftbound has always felt underwhelming. However, I've read several times now that Pyke should become pretty decent and reasonably playable after the upcoming bans, so I'm asking for your tips…"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y07gyg/suggest_a_list_besides_piltover/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Yes I know the other Yi is better, I just wanna use this guy for once."
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y07c13/yasuo_decks/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Does anyone have a fun Yasuo deck? I just bought the worlds bundle and want to build a deck since I'll have his worlds card. I know he's not top tier, but this would definitely be a casual deck for fun."
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y03hbu/help_with_deck_building_mordekaiser/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "I built this Miracle/Phoenix Mordekaiser deck (I'm not sure what to call it lol), and I've been having a lot of fun playing it. I wanted to see if you guys would make any changes to help improve the deck overall."
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y00xfb/diana_deck/",
+      "posted": "2026-11-18",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Hey giys, i am a newbie who just got myself a diana deck, i am running the normal diana deck list 3 hwei 3 moonfalls trav merchant etc and i am having trouble i keep having no cards in hand as i use all my spells in combat and i find the deck doesn't have much card draw?"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y0a59u/gane_mi_3_skirmish_con_leblanc_sin_baitedhook/",
+      "posted": "2026-11-19",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Hoy fue mi tercer Skirmish con Leblanc fueron solo 3 rondas. Nasus 2-0 Fiora 2-0 Riven 1-1 Gane por Tiebreak"
+    },
+    {
+      "source": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y00nwr/pax_unplugged/",
+      "posted": "2026-11-18",
+      "tier": "community",
+      "kind": "announcement",
+      "text": "Has anyone found sign-ups for the tournaments? I've been cursing every day but there are still no events made. I'm worried I'm looking in the wrong place."
+    },
+    {
+      "source": "Skyhaven Games",
+      "url": "https://facebook.com/groups/1289633928950754/permalink/1856867442227397/",
+      "posted": "2026-11-18",
+      "tier": "local",
+      "kind": "product",
+      "text": "Hello all!\n\nWe have a limited amount of Riftbound Origins in stock! Limit 2/person, they're up on the shelf now and available today. :)"
+    },
+    {
+      "source": "Skyhaven Games",
+      "url": "https://facebook.com/groups/1289633928950754/permalink/1856867075560767/",
+      "posted": "2026-11-18",
+      "tier": "local",
+      "kind": "product",
+      "text": "Hello all!\n\nWe have a limited number of Proving Grounds back in stock. They charged us more this time around, unfortunately, so the price is $84.99+txes for a unit.\n\nWe'll put them out for purchase tomorrow, but thought we'd ask if anyone in the group would like them?…"
+    },
+    {
+      "source": "Everything Games",
+      "url": "https://www.facebook.com/everythinggames.ca/posts/pfbid0318kZxwXYoD5dVFpYPpgScE6jw8H6xGDWE7iPv5FxmQkUCJhZzpV7xY7GNfCKr6x1l",
+      "posted": "2026-11-17",
+      "tier": "local",
+      "kind": "announcement",
+      "text": "What's happening at Everything Games this week! Tuesday Nov. 17: LOTR Miniatures MTG Pauper @6:00 Shadowverse Prerelease @6:15 Wednesday Nov. 18: MTG Commander 2-10 Thursday Nov. 19: Pokemon @6:30 hololive @7:30 40K Drop-in 2-10 Friday Nov.20: Grand Archive @3:00 Weiss Schwarz @7:30 AOS Drop-in 2-10 Saturday Nov. 21: Grand Archive @11:00 GW Skirmish Games @11:00 Flesh & Blood CC @2:30 Sunday Nov. 22: Riftbound @11:30"
+    }
+  ],
+  "store_events": [
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-19",
+      "fee": "FREE",
+      "format": "Open Play",
+      "name": "Open Play",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00-10:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Campbell River",
+      "date": "2026-11-21",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Summoner Skirmish I",
+      "store": "AJ's Games",
+      "time": "3:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Courtenay",
+      "date": "2026-11-21",
+      "fee": "FREE",
+      "format": "Nexus Nights",
+      "name": "Nexus Night",
+      "store": "Colossal Cards & Collectables",
+      "time": "5:00-9:00 PM",
+      "url": "https://www.facebook.com/Colossal.CV/posts/pfbid0cYLereSfCnYLw4Gdu3UCUzZ1Hac72oRw7K3oD3ghczRpPoMWz6NZWDmCGQHkVJRjl"
+    },
+    {
+      "store": "Everything Games",
+      "city": "Langford",
+      "name": "Saturday Nexus Night",
+      "date": "2026-11-21",
+      "time": "6:00 PM",
+      "format": "Nexus Nights",
+      "fee": "FREE",
+      "url": "https://playriftbound.com/en-US/events?q=Victoria%2C+BC%2C+Canada&lat=48.428421&lng=-123.365644&distance=40234",
+      "cancelled": false
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-21",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Summoner Skirmish I",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00-5:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-22",
+      "fee": "CA$15",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Skirmish 1",
+      "store": "Colossal Cards & Collectables",
+      "time": "12:00 PM",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0KEopGLBcR15nmWZpsHQZauWEPvFSUJmQdVXWRaskqNLNTsjEdT5NGxKboBHreorQl&id=61576236034631"
+    },
+    {
+      "store": "Everything Games",
+      "city": "Langford",
+      "name": "Radiance Summoner Skirmish",
+      "date": "2026-11-22",
+      "time": "11:30 AM",
+      "format": "Summoner Skirmish",
+      "fee": "CA$20",
+      "url": "https://www.facebook.com/everythinggames.ca/posts/pfbid0wHJrnGbiwu7zZf9fUZYQ8dxdBzDxh9it3xvvxAQ1EjCgPufnDhZT1wppuzfcePfyl",
+      "cancelled": false
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-22",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Sunday Nexus Night",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-24",
+      "fee": "",
+      "format": "casual play",
+      "name": "Riftbound casual play",
+      "store": "Rotty's Creations",
+      "time": "5:00-8:00 PM",
+      "url": "https://www.facebook.com/RottysCreations/posts/pfbid028uEbvzdqHKH6i5ApSLEVZkVGddidTVzARL1wJR64eYJkiNyGeYtbL8PzyagfhitKl"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-25",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Nexus Night",
+      "store": "Gauntlet Games",
+      "time": "6:00 PM",
+      "url": "https://www.gauntletgamesvictoria.ca/events"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-26",
+      "fee": "FREE",
+      "format": "Open Play",
+      "name": "Open Play",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00-10:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Courtenay",
+      "date": "2026-11-28",
+      "fee": "FREE",
+      "format": "Nexus Nights",
+      "name": "Nexus Night",
+      "store": "Colossal Cards & Collectables",
+      "time": "5:00-9:00 PM",
+      "url": "https://www.facebook.com/Colossal.CV/posts/pfbid0cYLereSfCnYLw4Gdu3UCUzZ1Hac72oRw7K3oD3ghczRpPoMWz6NZWDmCGQHkVJRjl"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-28",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Nexus Nights",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00-5:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-11-29",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Sunday Nexus Night",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-03",
+      "fee": "FREE",
+      "format": "Open Play",
+      "name": "Open Play",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00-10:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-05",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Nexus Nights",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00-5:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Duncan",
+      "date": "2026-12-05",
+      "fee": "CA$20",
+      "format": "Summoner Skirmish",
+      "name": "Skirmish at the Fort",
+      "store": "The Fort Game Cafe",
+      "time": "12:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-06",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Sunday Nexus Night",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-10",
+      "fee": "FREE",
+      "format": "Open Play",
+      "name": "Open Play",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00-10:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-11",
+      "fee": "FREE",
+      "format": "Learn to Play",
+      "name": "Friday Learn to Play",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2026-12-12",
+      "fee": "CA$20",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Summoner Skirmish II",
+      "store": "Elite4 Games",
+      "time": "11:30 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-12",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Nexus Nights",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00-5:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-13",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Sunday Nexus Night",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-17",
+      "fee": "FREE",
+      "format": "Open Play",
+      "name": "Open Play",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00-10:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Campbell River",
+      "date": "2026-12-19",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Summoner Skirmish II",
+      "store": "AJ's Games",
+      "time": "3:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Courtenay",
+      "date": "2026-12-19",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Summoner Skirmish II",
+      "store": "Colossal Cards & Collectables",
+      "time": "4:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-19",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Summoner Skirmish II",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00-5:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "cancelled": false,
+      "city": "Nanaimo",
+      "date": "2026-12-19",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Rad Skirmish 2",
+      "store": "Sports Card Alley",
+      "time": "4:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-20",
+      "fee": "CA$15",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Skirmish 2",
+      "store": "Colossal Cards & Collectables",
+      "time": "3:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-20",
+      "fee": "CA$5",
+      "format": "Nexus Nights",
+      "name": "Sunday Nexus Night",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "store": "Everything Games",
+      "city": "Langford",
+      "name": "Radiance Summoner Skirmish",
+      "date": "2026-12-27",
+      "time": "11:30 AM",
+      "format": "Summoner Skirmish",
+      "fee": "CA$20",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597",
+      "cancelled": false
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2026-12-31",
+      "fee": "FREE",
+      "format": "Open Play",
+      "name": "Open Play",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00-10:00 PM",
+      "url": "https://npframing.ca/"
+    },
+    {
+      "store": "North Park Framing and Collectibles",
+      "city": "Victoria",
+      "name": "Nexus Nights",
+      "date": "2027-01-02",
+      "time": "12:00 PM",
+      "format": "Nexus Nights",
+      "fee": "CA$5",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597",
+      "cancelled": false
+    },
+    {
+      "cancelled": false,
+      "city": "Duncan",
+      "date": "2027-01-08",
+      "fee": "CA$20",
+      "format": "Summoner Skirmish",
+      "name": "Skirmish 2 at the Fort",
+      "store": "The Fort Game Cafe",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-09",
+      "fee": "FREE",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Skirmish 2",
+      "store": "Gauntlet Games",
+      "time": "11:00 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-10",
+      "fee": "CA$10",
+      "format": "Summoner Skirmish",
+      "name": "Radiance Skirmish #2",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Campbell River",
+      "date": "2027-01-22",
+      "fee": "CA$40",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "AJ's Games",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-01-22",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift #1",
+      "store": "Elite4 Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-01-22",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre Rift",
+      "store": "Everything Games",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-22",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Duncan",
+      "date": "2027-01-22",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "The Fort Game Cafe",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Campbell River",
+      "date": "2027-01-23",
+      "fee": "CA$40",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "AJ's Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Courtenay",
+      "date": "2027-01-23",
+      "fee": "CA$40",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "Colossal Cards & Collectables",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-23",
+      "fee": "FREE",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift 1",
+      "store": "Gauntlet Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-23",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift #2",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Courtenay",
+      "date": "2027-01-24",
+      "fee": "CA$40",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "Colossal Cards & Collectables",
+      "time": "12:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-24",
+      "fee": "CA$40",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift",
+      "store": "Colossal Cards & Collectables",
+      "time": "4:30 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-01-24",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift #2",
+      "store": "Elite4 Games",
+      "time": "10:30 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-01-24",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift #3",
+      "store": "Elite4 Games",
+      "time": "2:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-01-24",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre Rift",
+      "store": "Everything Games",
+      "time": "11:30 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-24",
+      "fee": "CA$36",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift Sunday",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-25",
+      "fee": "CA$36",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift Monday Afternoon",
+      "store": "Skyhaven Games",
+      "time": "1:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-25",
+      "fee": "CA$36",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift Monday Evening",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-27",
+      "fee": "FREE",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift 2",
+      "store": "Gauntlet Games",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-01-28",
+      "fee": "CA$45",
+      "format": "Pre-Rift, Limited - Sealed",
+      "name": "Legacy Pre-Rift #3",
+      "store": "North Park Framing and Collectibles",
+      "time": "6:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Campbell River",
+      "date": "2027-02-06",
+      "fee": "FREE",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "AJ's Games",
+      "time": "5:30 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Courtenay",
+      "date": "2027-02-06",
+      "fee": "CA$15",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup 2v2",
+      "store": "Colossal Cards & Collectables",
+      "time": "3:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-02-13",
+      "fee": "CA$20",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "Elite4 Games",
+      "time": "10:30 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Nanaimo",
+      "date": "2027-02-13",
+      "fee": "CA$10",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "Sports Card Alley",
+      "time": "2:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-02-21",
+      "fee": "CA$10",
+      "format": "Nexus Cup",
+      "name": "CCV Legacy Nexus Cup",
+      "store": "Colossal Cards & Collectables",
+      "time": "1:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-02-27",
+      "fee": "CA$15",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "Gauntlet Games",
+      "time": "11:00 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-02-28",
+      "fee": "CA$10",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "Skyhaven Games",
+      "time": "5:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Langford",
+      "date": "2027-03-07",
+      "fee": "CA$20",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "Everything Games",
+      "time": "11:30 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-03-13",
+      "fee": "CA$10",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup",
+      "store": "North Park Framing and Collectibles",
+      "time": "12:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Duncan",
+      "date": "2027-03-20",
+      "fee": "CA$40",
+      "format": "Nexus Cup",
+      "name": "Legacy Nexus Cup Draft",
+      "store": "The Fort Game Cafe",
+      "time": "7:00 AM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    },
+    {
+      "cancelled": false,
+      "city": "Victoria",
+      "date": "2027-03-27",
+      "fee": "CA$20",
+      "format": "Challenge Series",
+      "name": "Legacy Challenge Series",
+      "store": "Gauntlet Games",
+      "time": "12:00 PM",
+      "url": "https://playriftbound.com/en-US/events?lat=48.4371&lng=-123.3597"
+    }
+  ]
+}
